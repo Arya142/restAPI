@@ -1,0 +1,9 @@
+{
+  "pod_name": "POD1",
+  "pod_gw_int_ipaddress": "10.10.1.1",   	
+  "pod_sa_ipaddress": "10.10.1.1",
+  "repo_server_ipaddress": "10.10.1.2", 	  
+  "docker_registry_address_port": "10.10.1.2:5000", 		
+  "ntp_server_ipaddress": "nt`p.ubuntu.com",   	
+  "a4_package_url" : "http://external_repo_ip/dt_a4_1.0.tar.gz"
+}
